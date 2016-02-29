@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TabLayoutAndNavigationViewExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_header_first">FIRST</string>
+    <string name="tab_header_second">SECOND</string>
+    <string name="tab_header_third">THIRD</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_item_1">first item</string>
+    <string name="navigation_item_2">second item</string>
+    <string name="navigation_item_3">third item</string>
+    <string name="nav_sub_header">Sub Header</string>
+    <string name="nav_sub_item_1">Sub Item 1</string>
+    <string name="nav_sub_item_2">Sub Item 2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
